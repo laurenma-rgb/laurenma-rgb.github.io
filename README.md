@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project: Lauren's Travel Blog</title>
+  </head>
+  <body>
+    <h2> About Lauren: </h2>
+    <p> Lauren Ma is a striving junior at Whitney High School. She loves traveling and has been fortunate enough to visit many different places around the world. She hopes to share some of her travel experiences with you, from sightseeing to photography to food recommendations! </p>
+  <h1> Favorite Destinations </h1>
+    <h3> Japan </h3>
+    <p> I visited Tokyo and Kyoto in 2023. </p>
+    <img src="Tokyo.png"> style="width:250px;height:300px;"
+    <h3> Europe: Paris, Amsterdam, London </h3>
+    <p></p>
+  </body>
+</html>
