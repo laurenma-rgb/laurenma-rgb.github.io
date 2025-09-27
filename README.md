@@ -11,6 +11,7 @@
     <p> I visited Tokyo and Kyoto in 2023. </p>
     <img src="Tokyo.png"> style="width:250px;height:300px;"
     <h3> Europe: Paris, Amsterdam, London </h3>
-    <p></p>
+     <p> We spent ten days traveling around western Europe in spring of 2024. Our first stop was London, the perfect blend of old European charm and modern architecture. Some of my favorite memories were roaming the food stalls at Borough Market and enjoying the scenery at Hyde Park. Next, we made our way to Amsterdam, a vibrant and unique city known for its canals, art, and architecture. I loved visiting the Rijksmuseum and all the little cheese shops. Our final destination of the trip was Paris, a magnificent and grand city. The Eiffel Tower was cool to see, but Versailles, Les Invalides, and the neighborhood of Montmartre were the real gems. Not to mention bakeries on every corner and all around beautiful architecture! </p>
+  </body>
   </body>
 </html>
