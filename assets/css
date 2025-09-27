@@ -4,3 +4,4 @@ body {
 body, h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 p {text-align: center}
+</style>
